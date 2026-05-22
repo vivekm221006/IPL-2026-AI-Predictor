@@ -9,7 +9,7 @@ An advanced AI-powered cricket analytics and prediction platform that predicts I
 Add your deployed Streamlit link here:
 
 ```bash
-https://your-streamlit-app.streamlit.app
+https://ipl-2026-ai-predictor-ybvzcszysmwyaub8sdjevp.streamlit.app/
 ```
 
 ---
