@@ -7,7 +7,6 @@ lightgbm
 shap
 optuna
 joblib
-sqlite3
 streamlit
 seaborn
 plotly
